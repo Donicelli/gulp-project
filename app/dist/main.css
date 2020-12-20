@@ -1,0 +1,4 @@
+@import url(~/reset-css/reset.css);
+body {
+  background: white;
+  font-family: 'Arial', sans-serif; }
